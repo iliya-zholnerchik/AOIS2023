@@ -1,0 +1,3 @@
+D:/Studying/AOIS-Labs/Lab_8/cmake-build-debug/CMakeFiles/Lab_8.dir
+D:/Studying/AOIS-Labs/Lab_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Studying/AOIS-Labs/Lab_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
